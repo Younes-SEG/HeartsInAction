@@ -42,10 +42,10 @@ export default function Contact() {
             <div>
               <h3 className="font-semibold mb-2 text-gray-800">Email</h3>
               <a
-                href="mailto:heartsinaction@uottawa.ca"
+                href="mailto:heartsinactionuo@gmail.com"
                 className="text-primary-600 hover:underline"
               >
-                heartsinaction@uottawa.ca
+                heartsinactionuo@gmail.com
               </a>
             </div>
             <div>
@@ -57,8 +57,8 @@ export default function Contact() {
               <div className="space-y-2">
                 <p className="text-gray-700">
                   Follow us on Instagram:{" "}
-                  <a href="#" className="text-red-600 hover:underline">
-                    @heartsinaction_uottawa
+                  <a href="https://www.instagram.com/hia.uottawa/" className="text-red-600 hover:underline">
+                    @hia.uottawa
                   </a>
                 </p>
                 <p className="text-gray-700">
